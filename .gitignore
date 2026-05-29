@@ -3,3 +3,6 @@ plugins/*
 node_modules
 __pycache__
 .firebase/
+.firebaserc
+*.pyc
+*.log
